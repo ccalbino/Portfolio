@@ -74,3 +74,29 @@ a.font-black {
   #about .icons a {
     color: rgb(11, 178, 249);
   }
+
+  /********
+
+  PROJECT
+
+  *********/
+
+
+  #project {
+      margin: 60px auto;
+      width: 80%;
+  }
+
+  #project h2 {
+      text-align: center;
+  }
+
+  #project .card img {
+      max-width: auto ;
+      
+  }
+
+
+  #project h5 {
+      font-weight: bold;
+  }
